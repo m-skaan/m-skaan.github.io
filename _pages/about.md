@@ -11,9 +11,9 @@ redirect_from:
 
 🧐 Researcher at [Advanced Networked Systems Research](https://faculty.cc.gatech.edu/~amsmti3/) Lab led by Dr. Ahmed Saeed
 
-👩‍🏫 Group tutor for CS 1332(Data Structures), the largest undergrad CS class
+👩‍🏫 Group tutor for CS 1332(Data Structures), GT's largest undergrad CS class
 
-⚙️ Prototyping Instructor at the Invention Studio, the largest student-run makerspace in the world!
+⚙️ Prototyping Instructor at the [Invention Studio](https://inventionstudio.gatech.edu), the largest student-run makerspace in the world!
 
 A data-driven personal website
 ======
