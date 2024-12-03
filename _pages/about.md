@@ -23,3 +23,7 @@ Summer 2024
 
 I created a kinematics simulator to visualize the car’s trajectory and re-routing capabilities using Robot Operating System 2 with a C++ backend and a visualization in rviz2. The kinematics simulator subscribed to data outputted from the upstream controller node. It interpreted the vehicle commands to calculate the updated position of the vehicle which it published to the rviz2 graphical simulation software to display the car’s trajectory. Once the physical vehicle is received, the simulator will inform the routing of the autonomous car during the challenge.
 
+### Data SWE Intern @ New Relic
+I added Google OneTap functionality on the Create Account page to reduce manual Gmail signups.
+
+I also helped in the initial stages of the redesign of the clickstream data system. This included creating documentation and contributing to high-level design decisions on how to add information in how the data is presented.
