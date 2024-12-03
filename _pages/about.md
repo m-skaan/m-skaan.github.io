@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hi, I'm Muskaan"
+title: "Hi, I'm Muskaan 👋"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 🎓 4th-year Computer Science major @ Georgia Tech
+🧐 Researcher at [Advanced Networked Systems Research](https://faculty.cc.gatech.edu/~amsmti3/) Lab led by Dr. Ahmed Saeed
 
 A data-driven personal website
 ======
