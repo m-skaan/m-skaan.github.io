@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 🎓 4th-year Computer Science major @ Georgia Tech
+
 🧐 Researcher at [Advanced Networked Systems Research](https://faculty.cc.gatech.edu/~amsmti3/) Lab led by Dr. Ahmed Saeed
+
+👩‍🏫 Group tutor for CS 1332: Data Structures and Algorithms
 
 A data-driven personal website
 ======
