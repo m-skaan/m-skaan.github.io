@@ -21,4 +21,5 @@ Experiences
 
 Summer 2024
 
-I worked on 
+I created a kinematics simulator to visualize the car’s trajectory and re-routing capabilities using Robot Operating System 2 with a C++ backend and a visualization in rviz2. The kinematics simulator subscribed to data outputted from the upstream controller node. It interpreted the vehicle commands to calculate the updated position of the vehicle which it published to the rviz2 graphical simulation software to display the car’s trajectory. Once the physical vehicle is received, the simulator will inform the routing of the autonomous car during the challenge.
+
