@@ -18,5 +18,7 @@ redirect_from:
 Experiences
 ======
 ### WAVE Fellow @ Autonomous Robotics and Controls Lab
+
 Summer 2024
+
 I worked on 
